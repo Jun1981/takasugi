@@ -1,0 +1,33 @@
+<html>
+
+<head>
+
+<title>PS</title>
+</head>
+
+
+<body bgcolor="#000000">
+
+<table border="1" cellspacing="0">
+
+<font color="#ffffff" size="7">
+
+プレイステーション<br>
+</font> 
+
+<tr>
+<td width="300" height="70" align="center" " style="font-size : 30px;"><font color="#FFFFFF">・高機動幻想ガンパレード・マーチ</td>
+<td width="300" align="center" " style="font-size : 30px;"><font color="#FFFFFF">・女神異聞録ペルソナ</td>
+<td width="300" align="center" " style="font-size : 30px;"><font color="#FFFFFF">・ブシドーブレード</td>
+<td width="300" align="center" " style="font-size : 30px;"><font color="#FFFFFF">・ＦＦ７</td>
+<td width="300" align="center" " style="font-size : 30px;"><font color="#FFFFFF">・おおおお</td>
+</tr>
+
+<div style="position: absolute; top: 150px; left: 10px;width:400;height:500;">
+<IFRAME src="../games/ps/gun.html" width="1000" height="1000"></IFRAME>
+</div> 
+
+
+
+</body>
+</html>

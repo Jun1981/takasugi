@@ -1,0 +1,30 @@
+#main {color:#ff0000;}
+
+
+.blue { color:blue;}
+
+.big{
+font-size:36px; 
+}
+
+.font{
+	
+	font-family:"HGS‘n‰pÌßÚ¾ÞÝ½EB";
+}
+
+.italic{
+font-style:italic;
+}
+.oblique{
+
+font-style:oblique;
+
+}
+
+.shadow{
+border:outset 2px;
+
+font-style:italic;
+text-shadow:3px 3px 2px #555555;
+}
+

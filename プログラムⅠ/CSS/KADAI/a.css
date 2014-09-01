@@ -1,0 +1,30 @@
+
+
+
+body{
+
+
+line-height:1.4;
+
+font-family:Arial, sans-serif;
+font-size:0.9em;
+color:red;
+
+}
+
+h1{
+color:blue;
+}
+
+table.tbl1{ 
+border:double 1px #000000;
+}
+
+.sample1
+{
+border:medium solid #0000ff;
+}
+.sample2
+{
+border:groove  20px #00ea33
+}

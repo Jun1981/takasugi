@@ -1,0 +1,49 @@
+
+
+body{
+background-image:url("../IMG/gankou.png");
+background-size:contain;
+
+line-height:1.4;
+
+font-family:Arial, sans-serif;
+font-size:0.9em;
+color:red;
+}
+
+h1{
+color:blue;
+marigin:0;
+padding:0;
+}
+
+table.tbl1{ 
+border:double 1px #000000;
+}
+
+td.sample1
+{
+border:medium solid #0000ff;
+position:static;
+
+}
+.sample2
+{
+border:groove  20px #00ea33;
+position:absolute;
+}
+
+
+div.sample3{
+
+padding:2px;
+border:1px solid #00ee55;
+
+position:relative;
+top:30px;
+right:40px;
+
+
+}
+
+

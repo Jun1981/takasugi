@@ -1,0 +1,32 @@
+img.logo1{
+width: ;
+height:;
+position: relative ;
+top:50px;
+left:48%;
+}
+img.UR1{
+
+ float: left;
+
+max-width:100px;
+height:auto;
+position:relative;
+left:60%;
+
+}
+
+div.txt1{
+font-size:xx-large;
+position:relative;
+top:70px;
+text-align:center;
+}
+
+div.txt2{
+font-size:large;
+position:relative;
+top:90px;
+margin-left:10%;
+margin-right:10%;
+}
