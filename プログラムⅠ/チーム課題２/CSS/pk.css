@@ -1,0 +1,13 @@
+body {
+    background-color: #ffeeee;
+    
+}
+h1 {
+    font-size:3em;
+    text-shadow: -1px -1px 4px #bbbbbb;
+    text-shadow: 2px 2px 4px #bbbbbb;
+}
+pre {
+    font-size: 1em;
+    text-shadow: 3px 3px 10px #dddddd;
+}

@@ -1,0 +1,32 @@
+body {
+    background-color: #fdeeef;
+}
+tr {
+    padding: 0 0 3px 0;
+}
+table,td {
+    border-width: medium;
+    text-align: center;
+    background-color: #ffffef;
+    border-style: groove;
+    border-spacing: ;
+    border-collapse: collapse;
+}
+h1 {
+    text-align: center;
+    text-shadow: 2px 2px 5px #aaaaaa;
+}
+h1+ p {
+    font-size: 1.5em;
+    text-align: center;
+}
+td img {
+    width: 10em;
+    height: auto;
+}
+img {
+    text-align: center;
+}
+td.name {
+    background-color: #ffffff;
+}
