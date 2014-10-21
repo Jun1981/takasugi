@@ -1,5 +1,5 @@
 body {
-    background-color: #fdeeef;
+    background-color: #ddeeef;
 }
 tr {
     padding: 0 0 3px 0;
@@ -27,6 +27,8 @@ td img {
 img {
     text-align: center;
 }
-td.name {
-    background-color: #ffffff;
+.name {
+    font-size:1.1em;
+    font-weight:800;
+        background-color: #ffffff;
 }
